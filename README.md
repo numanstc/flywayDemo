@@ -7,4 +7,4 @@ cd flywayDemo
 docker-compose -f src/main/resources/docker-compose.yaml up -d
 mvn spring-boot:run
 ```
-[After you can see from this link](http://localhost:8080/)
+[You can see it from this link](http://localhost:8080/)
